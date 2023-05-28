@@ -1,3 +1,5 @@
+#!/bin/bash
+
 # Step 1: Document the host information
 echo -e "\e[33mDocumenting host information...\e[0m"
 echo "Hostname: $(hostname)"
